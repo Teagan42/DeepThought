@@ -1,0 +1,6 @@
+[submodule "codegen/pyDeepThought"]
+	path = codegen/pyDeepThought
+	url = git@github.com:constructorfleet/DeepThought-CodeGen-Python.git
+[submodule "schemas"]
+	path = schemas
+	url = git@github.com:constructorfleet/Deepthought-Schema.git
